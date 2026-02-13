@@ -1,4 +1,4 @@
-# Day 3 — Analytics Process (Applying the Analytics Lifecycle to Real Work)  
+# Day 3 - Analytics Process (Applying the Analytics Lifecycle to Real Work)  
 **Task:** Take a past project and identify gaps using the analytics lifecycle.
 
 ---
